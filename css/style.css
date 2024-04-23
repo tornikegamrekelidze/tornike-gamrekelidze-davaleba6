@@ -3,6 +3,9 @@
 
 header {
 	margin: 50px 137px 42px ;
+	position: fixed;
+	z-index: 100;
+	top: 0;
 }
 
 
@@ -31,6 +34,7 @@ h1 {
 	line-height: normal;
 	margin-left: 137px;
 	margin-bottom: 27px;
+	margin-top: 120px;
 }
 
 .container {
@@ -44,6 +48,7 @@ h1 {
 	width: 362px;
 	height: 357px;
 	background-color: #F1F1F1;
+
 }
 
 .absolute {
@@ -87,4 +92,72 @@ h1 {
 	line-height: normal;
 	margin-left: 40px;
 	display: inline-block;
+}
+
+
+
+
+.relative2 {
+	position: relative;
+	width: 362px;
+	height: 357px;
+	background-color: #F1F1F1;
+	margin-left: 520px;
+	margin-top: -358px;
+}
+
+
+.relative3 {
+	position: relative;
+	width: 362px;
+	height: 357px;
+	background-color: #F1F1F1;
+	margin-left: 910px;
+	margin-top: -358px;
+}
+
+
+.my-h4 {
+	color: #000;
+	font-family: "Roboto", sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 800;
+	line-height: normal;
+	margin-left: 137px;
+	margin-top: 57px;
+}
+
+/*aq davamtavre pirveli seqcia*/
+
+
+.container1 {
+	width: 1110px;
+
+	margin: 0 auto;
+}
+
+
+.s-1 {
+	margin-top: 30px;
+}
+
+
+.wrapper {
+	display: inline-block;
+	position: relative;
+}
+
+
+h5 {
+	color: #FFF;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
