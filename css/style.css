@@ -1,0 +1,92 @@
+
+
+.background {
+	width: 100%;
+	height: 100%;
+	background-color: grey;
+}
+
+header {
+	margin: 50px 137px 42px ;
+}
+
+
+h1 {
+	display: inline-block;
+	margin-right: 35px;
+	vertical-align: middle;
+	color: #000;
+	font-family: "Roboto", sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.girl {
+	vertical-align: middle;
+}
+
+.h1 {
+	color: #000;
+	font-family: "Roboto", sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-left: 137px;
+	margin-bottom: 27px;
+}
+
+.container {
+	width: 1165px;
+
+	margin: 0 auto;
+}
+
+.relative{
+	position: relative;
+	width: 362px;
+    height: 186px;
+}
+
+.h2-abs {
+	color: #FFF;
+	font-family: "Roboto", sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	top: 32px;
+	left: 41px;
+}
+
+
+.clock {
+	border-radius: 0px 0px 5px 5px;
+	background-color: #FFF;
+	width: 362px;
+    height: 171px;
+}
+
+.p1 {
+	margin-top: 68px;
+	margin-left: 37px;	
+	color: #8A8787;
+	font-family: "Roboto", sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	width: 238px;
+	height: 36px;
+}
+
+.clockimg {
+	margin-left: 37px;
+	margin-bottom: 15px;
+}
+
+
+
