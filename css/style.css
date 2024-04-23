@@ -38,7 +38,7 @@ h1 {
 }
 
 .container {
-	width: 1110px;
+	width: 1300px;
 
 	margin: 0 auto;
 }
@@ -48,6 +48,7 @@ h1 {
 	width: 362px;
 	height: 357px;
 	background-color: #F1F1F1;
+	margin-left: 130px;
 
 }
 
@@ -132,7 +133,7 @@ h1 {
 
 
 .container1 {
-	width: 1110px;
+	width: 1300px;
 
 	margin: 0 auto;
 }
@@ -160,4 +161,16 @@ h5 {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+}
+
+
+.forest {
+	margin-left: 900px;
+	margin-top: -430px;
+	vertical-align: top;
+}
+
+.city {
+	margin-left: 110px;
+	vertical-align:top ;
 }
