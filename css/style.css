@@ -48,7 +48,7 @@ h1 {
 	width: 362px;
 	height: 357px;
 	background-color: #F1F1F1;
-	margin-left: 130px;
+	margin-left: 105px;
 
 }
 
@@ -173,4 +173,101 @@ h5 {
 .city {
 	margin-left: 110px;
 	vertical-align:top ;
+	margin-bottom: 42px;
+}
+
+
+.mountain {
+	margin-left: 110px;
+	margin-bottom: 36px;
+}
+
+.animal {
+	margin-left: 45px;
+	vertical-align: top;
+    
+}
+
+.mycity {
+	margin-left: 920px;
+	margin-top: -400px;
+	margin-bottom: 36px;
+
+}
+
+/*aq viwyeb footeris awybas*/
+
+.contact {
+	position: relative;
+	width: 1440px;
+    height: 201px;
+    background-color: #243043;
+}
+
+.absolute h6 {
+	color: #818687;
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 14px;
+	
+}
+
+.absolute {
+	position: absolute;
+	left: 137px;
+	top: 59px;
+}
+
+
+.help {
+	color: #818687;
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 14px;
+}
+
+.absolute3 {
+	position: absolute;
+	left: 266px;
+	top: 59px;
+}
+
+.help1 {
+	color: #818687;
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 14px;
+}
+
+
+.absolute4 {
+	position: absolute;
+	left: 417px;
+	top: 59px;
+}
+
+.contact-h1 {
+	color: #FFF;
+	font-family: "Roboto", sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-left: 599px;
+	margin-top: 59px;
+}
+
+
+
+.geolab {
+	margin-left: 1264px;
 }
